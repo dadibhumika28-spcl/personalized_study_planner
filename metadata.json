@@ -1,0 +1,6 @@
+{
+  "name": "Study Planner",
+  "description": "A premium, feature-rich study planner with daily scheduling, assignments, Pomodoro, goals tracker, notes, and progress analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
